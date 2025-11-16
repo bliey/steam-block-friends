@@ -1,4 +1,4 @@
-# Steam 批量拉黑好友 (Tampermonkey 脚本)
+# Steam 批量拉黑用户 (Tampermonkey 脚本)
 
 ## 功能简介
 
