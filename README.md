@@ -16,22 +16,14 @@
 
 ## 安装方法
 
-1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展。
-2. 复制脚本内容，保存为 `steam_block_friends.user.js`。
-3. 在 Tampermonkey 中导入该文件或直接打开 Raw 文件链接进行安装：
-
-   ```
-   https://raw.githubusercontent.com/你的用户名/仓库名/main/steam_block_friends.user.js
-   ```
-4. 打开任何 Steam 用户资料页面，你会在页面右上角看到 **“🚫 拉黑此用户的所有好友”** 按钮。
-5. 点击按钮并确认，即可开始批量拉黑好友。
-
+1.未安装 Tampermonkey 则安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
+2.已安装 Tampermonkey 则[点击](https://raw.githubusercontent.com/bliey/steam-block-friends/main/steam-block-friends.user.js) 安装脚本
 ---
 
 ## 使用说明
 
 1. 打开目标用户的 Steam 个人资料页（`/profiles/SteamID` 或 `/id/CustomURL`）。
-2. 点击页面右上角的 **拉黑按钮**。
+2. 点击页面右上角的 **按钮**。
 3. 系统会提示确认操作，点击确认即可开始批量拉黑。
 4. 操作过程中，按钮显示当前进度和预计剩余时间。
 5. 若想中途停止操作，可再次点击按钮并确认取消。
@@ -46,6 +38,6 @@
 
 ## 免责声明
 
-本脚本仅供学习与研究使用，使用过程中可能导致账号限制或其他风险，作者不承担任何责任。请谨慎操作。
+本脚本仅供学习与研究使用，使用过程中万一导致账号限制或其他风险，我不承担任何责任。请谨慎操作。
 
 
