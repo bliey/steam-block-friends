@@ -1,7 +1,5 @@
 # Steam 批量拉黑用户 (Tampermonkey 脚本)
-
-[English](   )
-
+[English](https://github.com/bliey/steam-block-friends/blob/main/README_EN.md)
 ## 功能简介
 
 该脚本可在 Steam 用户页面添加一个按钮，一键批量拉黑该用户的所有好友。
