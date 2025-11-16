@@ -16,8 +16,9 @@
 
 ## 安装方法
 
-1.未安装 Tampermonkey 则安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
+1.未安装 Tampermonkey 则安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展  
 2.已安装 Tampermonkey 则[点击](https://raw.githubusercontent.com/bliey/steam-block-friends/main/steam-block-friends.user.js) 安装脚本
+
 ---
 
 ## 使用说明
